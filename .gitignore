@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle datasets
+**/train.csv
+**/test.csv
+**/sample_submission.csv
+**/holidays_events.csv
+**/oil.csv
+**/stores.csv
+**/transactions.csv
+
+# Generated outputs
+**/submission.csv
+**/spaceship_prediction_project.csv
+
+# Model training artifacts
+**/catboost_info/
