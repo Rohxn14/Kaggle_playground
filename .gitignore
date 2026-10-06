@@ -26,3 +26,6 @@ venv/
 **/catboost_info/
 # Editor settings (machine-specific)
 .vscode/
+
+# Local project reports
+predicting_airline_satisfaction/Airline_Satisfaction_Project_Report.docx
