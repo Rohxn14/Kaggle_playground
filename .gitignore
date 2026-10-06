@@ -24,3 +24,5 @@ venv/
 
 # Model training artifacts
 **/catboost_info/
+# Editor settings (machine-specific)
+.vscode/
