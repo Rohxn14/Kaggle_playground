@@ -13,6 +13,7 @@ venv/
 **/train.csv
 **/test.csv
 **/sample_submission.csv
+**/original/
 **/holidays_events.csv
 **/oil.csv
 **/stores.csv
@@ -29,3 +30,4 @@ venv/
 
 # Local project reports
 predicting_airline_satisfaction/Airline_Satisfaction_Project_Report.docx
+Kaggle_Competitions_Project_Report.docx
